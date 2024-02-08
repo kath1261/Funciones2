@@ -28,4 +28,3 @@ function calcularDobleTriple(numero) {
   
   console.log(`El doble de ${numero} es ${doble} y el triple es ${triple}.`);
 
-  
